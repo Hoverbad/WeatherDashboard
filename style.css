@@ -1,0 +1,199 @@
+.body{
+    background-color: rgb(49, 49, 49);
+    font-family: 'Londrina Outline', cursive;
+    color:rgb(255, 255, 255)
+
+}
+
+.button {
+    transition-duration: 0.4s;
+  
+}
+  
+  .button:hover {
+    background-color: #818181; /* Grey */
+    color: white;
+  
+}
+
+
+.container-fluid{
+    background-color: rgb(49, 49, 49);
+    font-family: 'Londrina Outline', cursive;
+    font-size: larger;
+    color:rgb(255, 255, 255)
+
+}
+
+.input-group{ 
+    background-color: rgb(49, 49, 49);
+    font-family: 'Londrina Outline', cursive;
+    color:rgb(255, 255, 255)
+    
+
+}
+
+.input-group.mb-3{ 
+    background-color: rgb(49, 49, 49);
+    font-family: 'Londrina Outline', cursive;
+    color:rgb(255, 255, 255)
+    
+
+}
+
+.form-control{
+    background-color: rgb(49, 49, 49);
+    font-family: 'Londrina Outline', cursive;
+    color:rgb(255, 255, 255)
+
+}
+
+.input-group-append{
+    background-color: rgb(49, 49, 49);
+    font-family: 'Londrina Outline', cursive;
+    color:rgb(255, 255, 255)
+
+}
+
+
+.row{ 
+    background-color: rgb(49, 49, 49);
+    font-family: 'Londrina Outline', cursive;
+    color:rgb(255, 255, 255)
+
+}
+
+.btn-outline-primary {
+    color: #ffffff;
+    border-color: #ffffff;
+
+}
+
+h1{
+    background-color: rgb(49, 49, 49);
+    margin-top: -2rem;
+    font-family: 'Londrina Outline', cursive;
+    font-size: 4rem;
+    font-weight: 600;
+}
+
+.card-body{
+    background-color: rgb(49, 49, 49);
+    font-size: xx-large;
+    color:rgb(255, 255, 255)
+
+
+}
+
+.card-text{
+    background-color: rgb(49, 49, 49);
+    font-size: larger;
+    font-weight: 400;
+    color:rgb(255, 255, 255)
+
+
+}
+
+.card-header{
+    background-color: rgb(49, 49, 49);
+    color:rgb(255, 255, 255)
+
+
+}
+
+.card-deck{
+    background-color: rgb(49, 49, 49);
+    font-weight: 600;
+    color:rgb(255, 255, 255)
+
+
+}
+
+.list-group-item{
+    background-color: rgb(49, 49, 49);
+    font-family: 'Londrina Outline', cursive;
+    color:rgb(255, 255, 255)
+    
+}
+
+.list-group{
+    background-color: rgb(49, 49, 49);
+    font-family: 'Londrina Outline', cursive;
+    color:rgb(255, 255, 255)
+    
+    
+}
+
+p, a{
+  background-color: rgb(49, 49, 49);
+  font-family: 'Londrina Outline', cursive;
+  color:rgb(255, 255, 255)
+
+}
+
+h3, h4, h5{
+background-color: rgb(49, 49, 49);
+  font-family: 'Londrina Outline', cursive;
+  font-size: larger;
+  font-weight: 600;
+  color:rgb(255, 255, 255)
+
+}
+
+.jumbotron{
+    background-color: rgb(49, 49, 49);
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    height: 4rem;
+    margin-bottom: 0px;
+}
+
+.low{
+    border-radius: 6px;
+    padding: 5px;
+    color:green;
+    font-weight: 600;
+}
+
+.moderate{
+    border-radius: 6px;
+    padding: 5px;
+    color: yellow;
+    font-weight: 600;
+}
+
+.high{
+    border-radius: 6px;
+    padding: 5px;
+    color: orange;
+    font-weight: 600;
+}
+
+.vhigh{
+    border-radius: 6px;
+    padding: 5px;
+    color: red;
+    font-weight: 600;
+}
+
+.extreme{
+    border-radius: 6px;
+    padding: 5px;
+    color: violet;
+    font-weight: 600;
+}
+
+.searchCol{
+    height: 100vh;
+    background-color: rgb(49, 49, 49);
+    padding-top: 1rem;
+    padding-right: 2rem;
+    margin-right: -1rem;
+}
+
+.footer{
+    background-color: rgb(49, 49, 49);
+    font-family: 'Londrina Outline', cursive;
+    color:rgb(255, 255, 255)
+    
+}
